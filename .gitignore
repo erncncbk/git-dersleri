@@ -1,2 +1,4 @@
 ﻿Veritabanı
-Belgeler/
+*.html !dosya1.html
+*.py
+*.css
