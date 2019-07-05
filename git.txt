@@ -1,0 +1,43 @@
+
+erncn@Quicks MINGW64 ~/Desktop (master)
+$ git config --global user.name "Erencan Cabuk"
+
+erncn@Quicks MINGW64 ~/Desktop (master)
+$ git config --global user.email "erncncbk@gmail.com"
+
+erncn@Quicks MINGW64 ~/Desktop (master)
+$ git config --global user.name
+Erencan Cabuk
+
+erncn@Quicks MINGW64 ~/Desktop (master)
+$ git config --global user.email
+erncncbk@gmail.com
+
+erncn@Quicks MINGW64 ~/Desktop (master)
+$ pwd
+/c/Users/erncn/Desktop
+
+erncn@Quicks MINGW64 ~/Desktop (master)
+$ ls
+'~$Önyazı.docx'                         graduation.docx
+'~$ver_Letter.docx'                     graduation.pdf
+ 17.05.2019_Diary.txt                   Graduation_Thesis_Presentation.pptx
+ bir.png                                GraduationProject/
+ blog/                                  iki.png
+'C Programming - Kısayol.lnk'*         'Information_Theory - Kısayol.lnk'*
+'Chemistry - Kısayol.lnk'*              mete.png
+ Cover_Letter.docx                      murat.png
+ Cover_Letter.txt                       niloya.png
+ CV_duyuru.txt                          NotePad/
+ desktop.ini                           'Optimizasyon - Kısayol.lnk'*
+ dort.png                               Önyazı.docx
+ EC4C0F562FE8E46B5E400CBD82F2E44A.pdf  'Power_System_Production - Kısayol.lnk'*
+ Eren.png                              'survivor bird'/
+ Eren_Graduation/                       TeamViewer.txt
+ Eren_Graduation.rar                    uc.png
+"Erencan's CV.pdf"                     'Yeni Metin Belgesi.txt'
+ Flutter/                              'Yeni Microsoft Word Belgesi.docx'
+
+erncn@Quicks MINGW64 ~/Desktop (master)
+$ cd Proje
+
