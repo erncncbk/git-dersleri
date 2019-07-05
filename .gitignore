@@ -1,4 +1,4 @@
 ﻿Veritabanı
-*.html !dosya1.html
+*.html 
 *.py
 *.css
