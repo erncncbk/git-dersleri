@@ -1,6 +1,10 @@
-def topla(x,y):
+def carpma(x,y):
 
-	return x+y 
+	return x*y 
+	
+	
+	
+	
 	
 def merhaba ():
 	print("Merhaba")
