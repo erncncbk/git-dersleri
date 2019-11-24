@@ -15,6 +15,9 @@
 `$ git config --global user.name`
 `$ git config --global user.email`
 
+**Edit** <br/>
+`$ git config --global --edit`
+
 **Dosya dizinine gitme**<br/>
 `$ pwd`
 
